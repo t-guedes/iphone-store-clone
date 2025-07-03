@@ -14,3 +14,6 @@ Este projeto é um clone da página de vendas do iPhone 13, utilizando HTML, CSS
 - HTML: Estruturação da página, organização dos elementos e links.
 - CSS: Estilização, incluindo layout responsivo, efeitos de hover e transições.
 - JavaScript: Manipulação do DOM para troca de imagens e interação com os elementos da página.
+
+### 📸 Preview
+![preview-iphone](https://github.com/user-attachments/assets/81b75d71-3827-4eaf-9a32-a3d2d47e603e)
